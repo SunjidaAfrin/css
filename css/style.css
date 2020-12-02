@@ -1,0 +1,16 @@
+h1{
+	color: red;
+}h2{color: blue;background: yellow}
+h3{border: 5px green solid;font-style: italic;}
+h4{font-size: 40px}
+.head1{color: orange}
+#heading1{color: blue}
+.box{solid width:300px;
+background color:yellow; }
+h5{font-size: 30px;
+	color: #300887}
+	.box{
+		width: 200px;
+		height: 200px;
+		background-color: rgb(188,00,00);
+	}
